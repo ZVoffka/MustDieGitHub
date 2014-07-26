@@ -4,8 +4,8 @@
 <head>
        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
-       <link href="css/style.css" rel="stylesheet" type="text/css"/>
        <link href="css/reset.css" rel="stylesheet" type="text/css"/>
+       <link href="css/style.css" rel="stylesheet" type="text/css"/>
        <title>Интернет-Магазин Цифроыой Техники</title>
 </head>
 <body>
