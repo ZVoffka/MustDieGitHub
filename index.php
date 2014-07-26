@@ -21,7 +21,6 @@
 
 <div id="block-content"></div>
 
-</div>
 
 </div>
 </body>
