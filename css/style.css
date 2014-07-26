@@ -1,0 +1,22 @@
+#block-body{
+     width:   1035px;
+     height:  600px;
+     border:  1px solid black;
+     margin:  0 auto;
+}
+#block-header{
+     width: 1035px;
+     height: 220px;
+     border: 1px solid black;
+}
+#block-right{
+     width:   220px;
+     height:  400px;
+     border:  1px solid black;
+     float:   right;
+}
+#block-content{
+     width:   800px;
+     height:  400px;
+     border:  1px solid black;
+}
