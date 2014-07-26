@@ -18,7 +18,7 @@
 ?>
 
 <div id="block-right"></div> 
-
+<div id="block-header"></div>
 <div id="block-content"></div>
 
 
