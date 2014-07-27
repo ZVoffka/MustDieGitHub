@@ -1,5 +1,5 @@
 <div id="block-header">
-<div id="header-top-block"></div>
+<div id="header-top-block">
 
 <ul id="heder-top-menu">
 
@@ -11,4 +11,4 @@
 
 </div>
 
-
+</div>
