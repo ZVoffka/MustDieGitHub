@@ -1,7 +1,7 @@
 <div id="block-header">
 <div id="header-top-block">
 
-<ul id="heder-top-menu">
+<ul id="header-top-menu">
 
 <li>Ваш город - Москва</li>
 <li><a href="o-nas.php">О нас</a></li>
