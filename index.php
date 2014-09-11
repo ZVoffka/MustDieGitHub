@@ -12,12 +12,13 @@
 
 <div id="block-body">
 <?php
-
 	include("include/block-header.php");
 ?>
+
 <div id="block-right"></div> 
 
 <div id="block-content"></div>
+
 <?php
 	include("include/block-footer.php");
 ?>
